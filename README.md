@@ -43,6 +43,10 @@ The Logo Generator is a command-line application that allows users to generate s
     - The application will generate a logo.svg file in the `examples` directory.
     - A message `Generated logo.svg` will be printed in the command line.
 
+## Video link 
+[Click here to view the file](https://drive.google.com/file/d/1y6ODy-9IYxLhCC-6Sc_4U1BbUk5OaVCT/view)
+
+
 ### Example Interaction
 
 ```sh
@@ -54,3 +58,4 @@ npm start
 # Choose a shape for the logo: circle
 # Enter the shape color (keyword or hexadecimal): #00ff00
 # Generated logo.svg
+
