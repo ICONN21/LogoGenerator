@@ -46,6 +46,9 @@ The Logo Generator is a command-line application that allows users to generate s
 ## Video link 
 [Click here to view the file](https://drive.google.com/file/d/1y6ODy-9IYxLhCC-6Sc_4U1BbUk5OaVCT/view)
 
+## Github Link 
+[Click for Guthub!](https://github.com/ICONN21/LogoGenerator)
+
 
 ### Example Interaction
 
